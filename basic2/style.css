@@ -1,0 +1,21 @@
+p {
+  color: green;
+  font-size: 30px;
+  padding: 10px;
+  margin: 50px;
+  border: 1px solid;
+}
+
+.danger{
+	color: red;
+	font-weight:bold;
+}
+
+.info{
+	color: gray;
+	font-size: 8px;
+}
+
+#contents_title{
+	color: purple;
+}
